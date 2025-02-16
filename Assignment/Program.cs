@@ -1,4 +1,6 @@
 ﻿
+using System.Diagnostics;
+
 namespace Assignment
 {
     internal class Program
@@ -56,6 +58,18 @@ namespace Assignment
             //string[] words = { "aPPLE", "BlUeBeRrY", "cHeRry" };
 
             //var Result = words.Select(X => new {Upper = X.ToUpper() , Lower = X.ToLower()} );
+
+            //foreach (var item in Result)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            #endregion
+
+            #region Q3 [Transformation] Produce a sequence containing some properties of Products, including UnitPrice which is renamed to Price in the resulting type.
+
+            //var Result = ListGenerator.ProductList.Select(P => new {PID = P.ProductID, 
+            //                                            PNAME = P.ProductName , Price = P.UnitPrice});
 
             //foreach (var item in Result)
             //{
