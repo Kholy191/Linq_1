@@ -119,6 +119,16 @@ namespace Assignment
 
             #endregion
 
+            #region Q7 [Transformation] Select all orders where the order was made in 1998 or later.
+
+            //var Result = ListGenerator.CustomerList.SelectMany(O => O.Orders).Where(O => O.OrderDate.Year > 1997);
+
+            //foreach (var item in Result)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            #endregion
         }
     }
 }
