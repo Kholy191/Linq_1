@@ -107,6 +107,18 @@ namespace Assignment
             //}
 
             #endregion
+
+            #region Q6 [Transformation] Select all orders where the order total is less than 500.00.
+
+            //var Result = ListGenerator.CustomerList.SelectMany(O => O.Orders).Where(O => O.Total < 500.00M);
+
+            //foreach (var item in Result)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            #endregion
+
         }
     }
 }
