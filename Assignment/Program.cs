@@ -90,6 +90,23 @@ namespace Assignment
             //}
 
             #endregion
+
+            #region Q5 Returns all pairs of numbers from both arrays such that the number from numbersA is less than the number from numbersB.
+
+            //int[] numbersA = { 0, 2, 4, 5, 6, 8, 9 };
+            //int[] numbersB = { 1, 3, 5, 7, 8 };
+
+            //var Result = from A in numbersA 
+            //             from B in numbersB
+            //             where A < B
+            //             select new { A, B };
+
+            //foreach (var item in Result)
+            //{
+            //    Console.WriteLine($"{item.A} is less than {item.B}");
+            //}
+
+            #endregion
         }
     }
 }
