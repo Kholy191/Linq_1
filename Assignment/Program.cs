@@ -77,6 +77,19 @@ namespace Assignment
             //}
 
             #endregion
+
+            #region Q4 [Transformation] Determine if the value of ints in an array match their position in the array.
+
+            //int[] Arr = { 5, 4, 1, 3, 9, 8, 6, 7, 2, 0 };
+
+            //var Result = Arr.Select((Value, Index) => Value == Index);
+
+            //foreach (var item in Result)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            #endregion
         }
     }
 }
