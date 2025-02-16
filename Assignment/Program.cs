@@ -27,7 +27,18 @@ namespace Assignment
 
             #endregion
 
+            #region Q3 Returns digits whose name is shorter than their value.
 
+            //string[] Arr = { "zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine" };
+
+            //var result = Arr.Where((ARR, Index) => ARR.Length < Index);
+
+            //foreach (var item in result)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            #endregion
         }
     }
 }
