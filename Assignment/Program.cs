@@ -39,6 +39,19 @@ namespace Assignment
             //}
 
             #endregion
+
+            #region Q1 [Transformation] Return a sequence of just the names of a list of products.
+
+            //var Result = ListGenerator.ProductList.Select(P => P.ProductName);
+
+            //foreach (var item in Result)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            #endregion
+
+
         }
     }
 }
